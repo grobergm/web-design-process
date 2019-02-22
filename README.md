@@ -10,7 +10,7 @@ _Part one of an independent design project, given a clients specifications_
 
 In general these are some design elements that the client wants:
 
-* Their online presence to mirror their workspace (see images folder).
+* Their online presence to mirror their workspace (see img/work-space folder).
 
 * Want their company "to feel a little luxurious, cool, and high-end; yet still 100% welcoming and inclusive to everyone."
 
@@ -37,20 +37,27 @@ First I looked at the TechSpace website, to see what _not_ to do, since they men
 I did a rapid google search for "small start-up companies with cool websites", and checked out a few.
 
 I liked the welcoming and "non-corporate" feel of kayako.com
-<img src="img/welcoming.png"/>
+<img src="img/research/welcoming.png"/>
 
 They they had a nice look to their services:
-<img src="img/amenities.png"/>
+<img src="img/research/amenities.png"/>
 
 And also the way they layout of their pricing:
-<img src="img/pricing.png"/>
+<img src="img/research/pricing.png"/>
 
 Next I searched looked through the Awwwards site for "fun" and "startup" websites. I liked the image behind the text on the site startuplab.no site,
-<img src="img/cool-text.png"/>
+<img src="img/research/cool-text.png"/>
 
 as well as the pop-out navbar on the side of the screen.
-<img src="img/side-nav.png"/>
+<img src="img/research/side-nav.png"/>
 
-Elegant, cool --maybe even _a little "funky"?_
+The contrasting typefaces between the navbar and the main titles were elegant, cool --maybe even _a little "funky"?_
 
 ### Sketches
+
+Here are a few sketches that I did to incorporate these elements into a design. In general, notes or accented items are in blue, and the actual images are in black.
+
+<img src="img/sketches/landing.jpg"/>
+<img src="img/sketches/changing-background.jpg"/>
+<img src="img/sketches/content-image-alternating.jpg"/>
+<img src="img/sketches/contact-end.jpg"/>
