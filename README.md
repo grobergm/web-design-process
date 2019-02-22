@@ -53,7 +53,7 @@ as well as the pop-out navbar on the side of the screen.
 
 The contrasting typefaces between the navbar and the main titles were elegant, cool --maybe even _a little "funky"?_
 
-### Sketches
+## Sketches
 
 Here are a few sketches that I did to incorporate these elements into a design. In general, notes or accented items are in blue, and the actual images are in black.
 
@@ -61,3 +61,5 @@ Here are a few sketches that I did to incorporate these elements into a design. 
 <img src="img/sketches/changing-background.jpg"/>
 <img src="img/sketches/content-image-alternating.jpg"/>
 <img src="img/sketches/contact-end.jpg"/>
+
+## Wire-framing
