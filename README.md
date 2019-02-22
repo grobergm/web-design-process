@@ -29,3 +29,28 @@ In general these are some design elements that the client wants:
   * Contact
   * Amenities
   * Subscription model/cost/membership/how to join
+
+## Design Research
+
+First I looked at the TechSpace website, to see what _not_ to do, since they mentioned it specifically as the corporate personality they were trying to _avoid_. I noticed a lot of people on computers, and a certain air of professional-first culture. Definitely not the _funky, fun, inclusive_ website the client wants!
+
+I did a rapid google search for "small start-up companies with cool websites", and checked out a few.
+
+I liked the welcoming and "non-corporate" feel of kayako.com
+<img src="img/welcoming.png"/>
+
+They they had a nice look to their services:
+<img src="img/amenities.png"/>
+
+And also the way they layout of their pricing:
+<img src="img/pricing.png"/>
+
+Next I searched looked through the Awwwards site for "fun" and "startup" websites. I liked the image behind the text on the site startuplab.no site,
+<img src="img/cool-text.png"/>
+
+as well as the pop-out navbar on the side of the screen.
+<img src="img/side-nav.png"/>
+
+Elegant, cool --maybe even _a little "funky"?_
+
+### Sketches
