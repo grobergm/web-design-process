@@ -29,6 +29,42 @@ In general these are some design elements that the client wants:
   * Contact
   * Amenities
   * Subscription model/cost/membership/how to join
+## User Stories
+
+1. The Artist
+_I need a place to create, without the drudgery of modern city life_
+
+Needs:
+* To know what sort of creative opportunities are offered
+* To see creativity in the site
+* A seemless navigation system (not a wall of text and a bunch of links)
+
+Pain Points:
+* Too much of a corporate feel
+* Not enough color on the pages
+
+How can we serve
+* Use a lot of color on the site
+* Show creative opportunities
+* Keep navigation simple, and intuitive
+
+1. The Techy
+_I need to decompress, but I also have a lot of work to get done_
+
+Needs:
+* To know what sort of wifi is offered
+* The website to seem modern
+* To see that this will be a calming place
+
+Pain Points:
+* Old-fashioned website
+* No indication of fast wifi and/or coffee
+* Not obvious that work can be done here.
+
+How can we serve
+* Use a modern design, maybe a single page site
+* make sure to show there is wifi and coffee
+* show there are a variaty of work areas, but also plenty of decompression opportunities
 
 ## Design Research
 
