@@ -87,7 +87,7 @@ Next I searched looked through the Awwwards site for "fun" and "startup" website
 as well as the pop-out navbar on the side of the screen.
 <img src="img/research/side-nav.png"/>
 
-The contrasting typefaces between the navbar and the main titles were elegant, cool --maybe even _a little "funky"?_
+The contrasting typefaces between the navbar and the main titles were elegant, cool --maybe even _a little bit "funky"?_
 
 ## Sketches
 
@@ -107,3 +107,5 @@ Here is my basic wireframe completed in Sketch:
 
 * Sketch
 * Git
+* HTML
+* CSS
