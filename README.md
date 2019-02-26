@@ -31,8 +31,8 @@ In general these are some design elements that the client wants:
   * Subscription model/cost/membership/how to join
 ## User Stories
 
-1. The Artist
-_I need a place to create, without the drudgery of modern city life_
+1. The Artist:
+  _I need a place to create, without the drudgery of modern city life_
 
 Needs:
 * To know what sort of creative opportunities are offered
@@ -48,8 +48,8 @@ How can we serve
 * Show creative opportunities
 * Keep navigation simple, and intuitive
 
-1. The Techy
-_I need to decompress, but I also have a lot of work to get done_
+1. The Techy:
+  _I need to decompress, but I also have a lot of work to get done_
 
 Needs:
 * To know what sort of wifi is offered
@@ -99,3 +99,11 @@ Here are a few sketches that I did to incorporate these elements into a design. 
 <img src="img/sketches/contact-end.jpg"/>
 
 ## Wire-framing
+
+Here is my basic wireframe completed in Sketch:
+<img src="img/wire-frame.png"/>
+
+## Technologies Used
+
+* Sketch
+* Git
