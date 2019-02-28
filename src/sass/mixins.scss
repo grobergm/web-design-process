@@ -1,0 +1,7 @@
+@mixin mediaQuery($max){
+  @media screen and (max-width:$max){
+    @content;
+  }
+}
+
+// should do min if mobile first
