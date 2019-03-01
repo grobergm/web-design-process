@@ -1,15 +1,27 @@
 #amenity-grid{
   display:grid;
   grid-template-columns: 1fr 1fr;
-  grid-column-gap:1rem;
   grid-row-gap:1rem;
+  grid-column-gap:1rem;
   justify-content: center;
+  @include mediaQuery(750px){
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 }
 
 .amenity{
+  display:flex;
+  align-items:flex-end;
+  justify-content:center;
   background-size:cover;
   background-position:center;
-  border-radius:50%;
+  border-radius:1rem;
+  overflow:hidden;
+}
+
+.screen{
+  width:100%;
+  background-color:rgba(0,0,0,0.5);
 }
 
 #wifi{
