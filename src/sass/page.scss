@@ -1,0 +1,22 @@
+.top{
+  height:50vh;
+  width:100vw;
+  overflow:hidden;
+  display:flex;
+  // flex-direction:column;
+  justify-content:center;
+  position:relative;
+  img{
+    object-fit:cover;
+    // align-self:flex-end;
+  }
+  .banner{
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    background-color:rgba(0,0,0,0.5);
+    width:100%;
+    text-align:center;
+    padding:10px;
+  }
+}
