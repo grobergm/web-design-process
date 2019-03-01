@@ -1,10 +1,28 @@
 # Design-practice
 ## by Matt Groberg
 
-_Part one of an independent design project, given a clients specifications_
-
 ### Description
+The first part of this project was design focused, based on a non-technical prompt given a theoretical client's specifications.
+First, I imagined who would be using this site, and tried to put myself in their shoes. I did a little design research, then sketched out some ideas on paper. Next I used Sketch to design a more detailed wire-frame of the website. When this was finished, I created a prototype in Sketch, to test the flow of the website.
 
+The second part of this project involved coding a responsive version of my design. I used webpack, and a NodeJS/NPM based development environment, in order to reduce the package size of the website. I used a responsive, mobile-first design and resized my hi-res images, to further reduce load times and ensure my site still looked good on various devices. I used relative units, a flexible grid-based layout, and several media queries.
+
+Since I was focused on CSS and design, I did not include any Javascript in this version of the website (besides what I needed for webpack and NodeJS to function). In future versions of this site, the heart-toggle should open a side nav-bar, like the one in my sketch file. In addition, the scroll-prompt should be active, to give the option of clicking it to scroll to the next section.
+
+## Technologies Used
+* Sketch
+* Git
+* HTML
+* CSS with Sass
+* Web-pack
+* NodeJS and NPM
+
+## Setup Instructions
+1.  Install NodeJs and NPM on your computer.
+2.  Clone this repository.
+3.  My main sketch file is in a folder called "sketch-files", which you can open in Sketch to view the prototyping.
+4.  To view the website, cd into the cloned repo and run this command to install dependencies: npm Install
+5.  When these are finished installing, use this command to start the dev server and open the site: npm run start
 
 ## Client design specs
 
@@ -103,9 +121,6 @@ Here are a few sketches that I did to incorporate these elements into a design. 
 Here is my basic wireframe completed in Sketch:
 <img src="img/wire-frame.png"/>
 
-## Technologies Used
 
-* Sketch
-* Git
-* HTML
-* CSS
+
+## MIT license C Matt Groberg 2019
