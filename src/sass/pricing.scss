@@ -1,6 +1,7 @@
 #pricing-grid{
   display:grid;
   grid-template-columns:30vw 30vw 30vw;
+  align-items:center;
 }
 
 
@@ -11,6 +12,7 @@
   height:100%;
   padding:1rem;
   font-size:2vw;
+  max-width:215px;
   @include mediaQuery(750px){
     font-size:1rem;
   }
@@ -25,6 +27,9 @@
   p{
     font-size:1em;
     margin-bottom:0.5rem;
+  }
+  .button{
+    font-size:1em;
   }
 }
 
