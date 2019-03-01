@@ -1,5 +1,5 @@
-@mixin mediaQuery($max){
-  @media screen and (max-width:$max){
+@mixin mediaQuery($min){
+  @media screen and (min-width:$min){
     @content;
   }
 }
