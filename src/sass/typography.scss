@@ -1,12 +1,17 @@
 html{
   font-size:16px;
   color:white;
-  z-index: 1;
+  font-family:$content-font;
 }
 
 h1{
   font-size:3rem;
-  font-family: sans-serif;
+  font-family: $header-font;
+  text-transform: uppercase;
+}
+
+h2{
+  font-family: $header-font;
   text-transform: uppercase;
 }
 

@@ -1,0 +1,41 @@
+#pricing-grid{
+  display:grid;
+  grid-template-columns:30vw 30vw 30vw;
+}
+
+
+.price-plan{
+  color:black;
+  background-color:white;
+  text-align:center;
+  height:100%;
+  padding:1rem;
+  font-size:2vw;
+  @include mediaQuery(750px){
+    font-size:1rem;
+  }
+  h1{
+    font-size:3em;
+    font-weight:lighter;
+  }
+  h2{
+    color:$purple;
+    font-size:2em;
+  }
+  p{
+    font-size:1em;
+    margin-bottom:0.5rem;
+  }
+}
+
+.gold{
+  height:110%;
+  border:2px solid gold;
+  h2{
+    color:gold;
+  }
+  .button{
+    background-color:gold;
+  }
+
+}

@@ -1,7 +1,7 @@
 #amenity-grid{
   display:grid;
   grid-template-columns: 40vw 40vw;
-  grid-template-rows:1fr 1fr;
+  grid-template-rows:20vh 20vh;
   grid-row-gap:0.5rem;
   grid-column-gap:0.5rem;
   @include mediaQuery(750px){
@@ -13,6 +13,7 @@
 .amenity{
   display:flex;
   align-items:flex-end;
+  text-align:center;
   height:100%;
   background-size:cover;
   background-position:center;
