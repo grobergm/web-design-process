@@ -7,3 +7,17 @@ section{
   width:100vw;
   scroll-snap-align: start;
 }
+
+#nav-toggle{
+  position:fixed;
+  top:1rem;
+  left:1rem;
+  z-index:2;
+}
+
+#scroll-down{
+  position:fixed;
+  bottom:1rem;
+  left:50%;
+  z-index:2;
+}
