@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="72px" viewBox="0 0 58 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav-toggle" transform="translate(4.000000, 6.000000)" stroke="#FFFFFF" stroke-width="3">
+            <polygon id="Path-3" fill="#E5A6B9" points="15.4049055 0 24.6792473 11.4228246 31.1918264 2.19541708 43.0186074 8.40652124 47.9821922 18.469942 47.9821922 30.0067226 43.0186074 41.3145828 25.8396848 60.896856 0 26.6092214 0 8.40652124 0 6.29278941 3.69717731 2.19541708"></polygon>
+            <g id="Group" transform="translate(15.567568, 18.000000)" stroke-linecap="square">
+                <path d="M0.648648649,4.92857143 L17.5135135,4.92857143" id="Line"></path>
+                <path d="M0.648648649,11.5 L17.5135135,11.5" id="Line-Copy"></path>
+                <path d="M0.648648649,18.0714286 L17.5135135,18.0714286" id="Line-Copy-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>
