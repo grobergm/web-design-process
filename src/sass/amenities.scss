@@ -27,17 +27,17 @@
 }
 
 #wifi{
-  background-image:url('../assets/img/wifi.jpg');
+  @include centered-back-img('../assets/img/wifi.jpg');
 }
 
 #coffee{
-  background-image:url('../assets/img/coffee.jpg');
+  @include centered-back-img('../assets/img/coffee.jpg');
 }
 
 #group{
-  background-image:url('../assets/img/group-work.jpg');
+  @include centered-back-img('../assets/img/group-work.jpg');
 }
 
 #art{
-  background-image:url('../assets/img/art.jpg');
+  @include centered-back-img('../assets/img/art.jpg');
 }
