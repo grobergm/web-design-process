@@ -3,20 +3,18 @@
   width:100%;
   overflow:hidden;
   display:flex;
-  // flex-direction:column;
-  justify-content:center;
+  flex-direction:column;
+  align-items:center;
   position:relative;
   img{
-    object-fit:cover;
-    // width:100%;
-    // align-self:flex-end;
+    width:100%;
   }
   .banner{
     position:absolute;
     top:50%;
     transform:translateY(-50%);
     background-color:rgba(0,0,0,0.5);
-    // width:100%;
+    width:100%;
     text-align:center;
     padding:10px;
   }
@@ -42,4 +40,20 @@
 }
 .blue{
   background-color:$blue;
+}
+
+#logo-top{
+  @include centered-back-img('../assets/img/work-space/entrance.png');
+}
+
+#amenities-top{
+  @include centered-back-img('../assets/img/work-space/coffee-area.png');
+}
+
+#pricing-top{
+  @include centered-back-img('../assets/img/work-space/meeting-area.png');
+}
+
+#contact-top{
+  @include centered-back-img('../assets/img/contact.jpg');
 }

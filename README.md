@@ -18,9 +18,9 @@ Since I was focused on CSS and design, I did not include any Javascript in this 
 * NodeJS and NPM
 
 ## Setup Instructions
-1.  Install NodeJs and NPM on your computer.
-2.  Clone this repository.
-3.  My main sketch file is in a folder called "sketch-files", which you can open in Sketch to view the prototyping.
+1.  Make sure your computer has NodeJs and NPM installed.
+2.  Clone or download this repo.
+3.  My main sketch file is in a folder called "sketch-files", which you can open in Sketch to view the wire-frame and prototyping.
 4.  To view the website, cd into the cloned repo and run this command to install dependencies: npm Install
 5.  When these are finished installing, use this command to start the dev server and open the site: npm run start
 
