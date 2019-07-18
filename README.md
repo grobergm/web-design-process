@@ -2,6 +2,7 @@
 ## by Matt Groberg
 
 ### Description
+<a href="https://github.com/grobergm/web-design-process">Visit Site</a>
 The first part of this project was design focused, based on a non-technical prompt given a theoretical client's specifications.
 First, I imagined who would be using this site, and tried to put myself in their shoes. I did a little design research, then sketched out some ideas on paper. Next I used Sketch to design a more detailed wire-frame of the website. When this was finished, I created a prototype in Sketch, to test the flow of the website.
 
